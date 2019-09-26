@@ -158,7 +158,7 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #055444;
+  background: #0adc1a;
   color: #fff;
 }
 
@@ -167,8 +167,8 @@ h6, .h6 {
 }
 
 .btn-primary:active {
-  background: #055444 !important;
-  color: #ffbc3b;
+  background: #0adc1a !important;
+  color: #0adc1a;
 }
 
 .btn-primary:active::before {
@@ -176,30 +176,30 @@ h6, .h6 {
 }
 
 .btn-primary:hover {
-  background: #055444;
-  color: #ffbc3b;
+  background: #0adc1a;
+  color: #0adc1a;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #055444;
-  border-color: #055444;
+  background-color: #0adc1a;
+  border-color: #0adc1a;
 }
 
 .btn-secondary {
   background: #fff;
-  color: #055444;
+  color: #0adc1a;
   border: 1px solid #fff;
 }
 
 .btn-secondary::before {
-  background: #055444;
+  background: #0adc1a;
 }
 
 .btn-secondary:active {
-  background: #055444;
+  background: #0adc1a;
   color: #fff;
   border: 1px solid #fff;
 }
@@ -211,8 +211,8 @@ h6, .h6 {
 }
 
 .btn-primary-outline {
-  border: 1px solid #055444;
-  color: #055444;
+  border: 1px solid #0adc1a;
+  color: #0adc1a;
   background: transparent;
 }
 
@@ -221,12 +221,12 @@ h6, .h6 {
 }
 
 .btn-primary-outline:hover {
-  background: #055444;
-  color: #055444;
+  background: #0adc1a;
+  color: #0adc1a;
 }
 
 .btn-primary-outline:active {
-  background: #055444;
+  background: #0adc1a;
   color: #fff;
 }
 
@@ -236,12 +236,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #ffcd6e;
+  background: #0adc1a;
   color: #fff;
 }
 
 ::selection {
-  background: #ffcd6e;
+  background: #0adc1a;
   color: #fff;
 }
 
@@ -271,7 +271,7 @@ img {
 }
 
 a {
-  color: #005544;
+  color: #0adc1a;
 }
 
 a,
@@ -294,11 +294,11 @@ select:focus {
 }
 
 a:hover {
-  color: #005544;
+  color: #0adc1a;
 }
 
 a.text-primary:hover {
-  color: #005544 !important;
+  color: #0adc1a!important;
 }
 
 a.text-light:hover {
@@ -366,7 +366,7 @@ a h4:hover {
 }
 
 .bg-primary {
-  background:#005544 !important;
+  background:#0adc1a !important;
 }
 
 .bg-secondary {
@@ -378,7 +378,7 @@ a h4:hover {
 }
 
 .text-primary {
-  color: #ffbc3b !important;
+  color: #0adc1a !important;
 }
 
 .text-color {
@@ -503,7 +503,7 @@ a h4:hover {
   height: 10px;
   width: 10px;
   border-radius: 50%;
-  background: #005544;
+  background: #0adc1a;
   left: -25px;
   top: 5px;
 }
@@ -554,7 +554,7 @@ textarea.form-control {
 
 .navbar-nav {
   padding-left: 50px;
-  background: #005544;
+  background: #0adc1a;
 }
 
 @media (max-width: 991px) {
@@ -646,7 +646,7 @@ link:focus,
 
 .navbar .dropdown-menu {
   box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.12);
-  border-bottom: 5px solid #ffbc3b;
+  border-bottom: 5px solid #0adc1a;
   padding: 15px;
   top: 96px;
   border-radius: 0;
@@ -713,7 +713,7 @@ link:focus,
 }
 
 .navbar .dropdown-item:hover {
-  color: #005544;
+  color: #0adc1a;
   background: transparent;
 }
 
@@ -741,7 +741,7 @@ link:focus,
 
 .hero-slider .prevArrow:hover,
 .hero-slider .nextArrow:hover {
-  color: #005544;
+  color: #0adc1a;
 }
 
 .hero-slider .prevArrow {
@@ -765,7 +765,7 @@ link:focus,
 }
 
 .hero-slider .slick-dots li.slick-active button {
-  background: #005544;
+  background: #0adc1a;
 }
 
 .hero-slider .slick-dots li button {
@@ -782,7 +782,7 @@ link:focus,
 /* banner feature */
 .feature-icon {
   font-size: 50px;
-  color: #005544;
+  color: #0adc1a;
   display: inline-block;
 }
 
@@ -866,7 +866,7 @@ link:focus,
   height: 80px;
   width: 80px;
   border-radius: 50%;
-  background: #ffbc3b;
+  background: #0adc1a;
   color: #fff;
   font-size: 20px;
   text-align: center;
@@ -899,7 +899,7 @@ link:focus,
   width: 80%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background: #ffbc3b;
+  background: #0adc1a;
   border-radius: 50%;
   top: 50%;
   left: 50%;
@@ -923,7 +923,7 @@ link:focus,
 /* events */
 .card-date {
   position: absolute;
-  background: #ffbc3b;
+  background: #0adc1a;
   font-family: "futura-bold";
   text-align: center;
   padding: 10px;
@@ -984,7 +984,7 @@ link:focus,
 }
 
 .form-control:focus {
-  border-color: #ffbc3b;
+  border-color: #0adc1a;
   box-shadow: none;
 }
 
